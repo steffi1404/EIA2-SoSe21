@@ -7,6 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="41.519779"
+   inkscape:export-xdpi="41.519779"
+   inkscape:export-filename="C:\Users\stefa\Documents\Steckbrief\EIA1-SoSe20\Steckbrief\Bilder\Zeichnung.png"
    sodipodi:docname="Zeichnung.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -32,8 +35,8 @@
        x="40.892238" />
     <rect
        id="rect24"
-       height="15.100728"
-       width="45.43582"
+       height="19.361755"
+       width="51.024052"
        y="69.623712"
        x="74.568198" />
     <rect
@@ -53,9 +56,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="571.96708"
-     inkscape:cx="434.28734"
-     inkscape:zoom="5.6"
+     inkscape:cy="492.43605"
+     inkscape:cx="30.03379"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -91,57 +94,53 @@
            dx="0 6.283834 4.8162284 7.069314 5.2709789 4.816227 6.2838345 7.0279732 3.6173363 4.8162308"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-0.560917px">startseite</tspan></tspan></text>
     <g
-       transform="matrix(2.242199,0,0,2.242199,-90.964368,-97.956775)"
-       id="g113">
-      <g
-         id="g57"
-         transform="translate(30.735996,5.61266)">
-        <ellipse
-           ry="44.926399"
-           rx="45.020893"
-           cy="98.221039"
-           cx="56.738163"
-           id="path12"
-           style="fill:#006680;fill-rule:evenodd;stroke-width:0.287503" />
-      </g>
-      <text
-         xml:space="preserve"
-         id="text16"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect18);fill:#ffffff;fill-opacity:1;stroke:none;"
-         transform="matrix(1.3399535,0,0,1.3399535,-9.04486,-33.395296)"><tspan
-           x="39.308594"
-           y="115.1223"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:3.15;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-1.53461px;fill:#ffffff">stefanie</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text22"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#ffffff;fill-opacity:1;stroke:none;"
-         transform="matrix(1.3399535,0,0,1.3399535,-8.8033118,22.229944)"><tspan
-           x="74.568359"
-           y="81.209642"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-1.41817px;fill:#ffffff">katz</tspan></tspan></text>
-      <rect
-         style="fill:#280b0b;stroke-width:0.288814"
-         id="rect36"
-         width="3.1708801"
-         height="2.315104"
-         x="92.441177"
-         y="107.89064" />
-      <text
-         xml:space="preserve"
-         id="text91"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.845796px;white-space:pre;shape-inside:url(#rect93);fill:#280b0b;fill-opacity:1;stroke:none;"
-         transform="matrix(0.92496937,0,0,0.92496937,13.103438,-44.005883)"><tspan
-           x="46.771484"
-           y="194.87422"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#280b0b;fill-opacity:1">startseite</tspan></tspan></text>
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="rect97"
-         width="163.70259"
-         height="49.979401"
-         x="12.828938"
-         y="53.988441" />
+       transform="matrix(2.242199,0,0,2.242199,-154.8811,-143.63683)"
+       id="g57">
+      <ellipse
+         style="fill:#006680;fill-rule:evenodd;stroke-width:0.287503"
+         id="path12"
+         cx="56.738163"
+         cy="98.221039"
+         rx="45.020893"
+         ry="44.926399" />
     </g>
+    <text
+       transform="matrix(2.889942,0,0,2.889942,-236.90047,-218.46383)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect18);fill:#ffffff;fill-opacity:1;stroke:none;"
+       id="text16"
+       xml:space="preserve"><tspan
+         x="39.308594"
+         y="115.1223"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:3.15;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-1.53461px;fill:#ffffff">stefanie</tspan></tspan></text>
+    <text
+       transform="matrix(2.7055154,0,0,2.7055154,-222.62783,-85.642377)"
+       style="font-style:normal;font-weight:normal;font-size:13.5657px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#ffffff;fill-opacity:1;stroke:none;"
+       id="text22"
+       xml:space="preserve"><tspan
+         x="74.568359"
+         y="81.999446"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.5657px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-1.41817px;fill:#ffffff">katz</tspan></tspan></text>
+    <rect
+       y="86.349518"
+       x="-18.037741"
+       height="4.8959661"
+       width="6.8708205"
+       id="rect36"
+       style="fill:#280b0b;stroke-width:0.618253" />
+    <text
+       transform="matrix(2.0739654,0,0,2.0739654,-194.4168,-254.89148)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.845796px;white-space:pre;shape-inside:url(#rect93);fill:#280b0b;fill-opacity:1;stroke:none;"
+       id="text91"
+       xml:space="preserve"><tspan
+         x="46.771484"
+         y="194.87422"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#280b0b;fill-opacity:1">startseite</tspan></tspan></text>
+    <rect
+       y="-35.168701"
+       x="-195.03229"
+       height="112.06376"
+       width="367.05377"
+       id="rect97"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.593248" />
   </g>
 </svg>
