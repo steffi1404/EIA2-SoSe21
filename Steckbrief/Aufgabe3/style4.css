@@ -37,6 +37,7 @@ div {
     font-weight: normal;
     text-align: left;
     font-family: sans-serif;
+    border-radius: 5px;
   }
 
  div p1 {}

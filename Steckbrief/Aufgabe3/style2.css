@@ -1,29 +1,35 @@
+
+.half-circle {
+    position: absolute;
+    margin-top: -300px;
+    text-align: center;
+    top: 0px;
+    left: 480px;
+    width: 400px;
+    height: 200px;
+    border-radius: 400px 400px 0 0;
+    background-color: lightblue;
+    z-index: -10;
+    background-color: #a20000;
+    transform-origin: bottom center;
+    transform: rotate(180deg);
+   
+  }
+
 li {
     
     text-decoration: none;
     display: inline;
-    background-color: rgba(0, 0, 0, 0.705);
+    background-color: rgba(0, 0, 0, 0.986);
     padding: 10px 0;
-    border-top: 3px  black;
-    border-bottom: 3px black;
     margin: 0;
     padding-left: 50px;
-    padding-right: 10px;
+    padding-right: 50px;
     position: absolute;
+    color: white;
     top: 0px;
-    left: 50px;
-
-
-}
-
- li a{ 
-    
-    font-family: sans-serif;   
-    list-style-type: none;
-    text-decoration: none;
-    text-decoration-color: black;
-    color:white;
-    display: block;
+    left: 850px;
+    border-radius: 5px;
 
 }
 
