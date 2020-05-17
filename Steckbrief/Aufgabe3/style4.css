@@ -49,67 +49,51 @@ li a.aktiv{
   font-weight: 1000;
 }
 
-.Navigation {
-  position: fixed;
-  right: 0;
-    top: 0;
-  }
-
-.title{
-  margin: 0 auto;
-  width: 50%;
+.Kontakt{
+  color: lightgreen;
+  font-size: 20pt;
+  font-weight: bold;
+  position: relative;
   text-align: left;
-  padding-bottom: 10px;
-  font-size: 42px;
+  margin-top: -700px;
+  margin-left: 210px;
+}
+
+.formular{
+  background: lightgrey;
+  font-size: 10pt;
   color: white;
+  width: 200px;
+  padding: 5px 5px 5px 5px;
+  margin-left: 210px;
+  text-align: left;
 }
 
-.name { 
-  background-color: lightgrey;
-  border-bottom: 5px solid white;
+.nachricht{
+  background: lightgrey;
+  font-size: 10pt;
   color: white;
-  width:300px;
+  width: 200px;
+  padding: 20px 80px 5px 5px;
+  margin-left: 210px;
+  text-align: left;
 }
 
-
-.email {
-  background-color: lightgrey;  
-  border-bottom: 5px solid lightgrey;
-  height:50px;
-  width:300px;
-  
-}
-.submit{
-  border-radius:5px;
-  padding:10px;
-  background-color: #2DD7BB;  
-  border: none;
-  border-bottom: 5px solid lightgrey; 
-  transform: translateY(-120px); 
-
-
+.DSGVO{
+  color: lightgrey;
+  font-size: 10pt;
+  position: relative;
+  text-align: left;
+  margin-left: 210px;
 }
 
-.entry{
-  display: block;
-  margin: 30px auto;
-  padding: 10px;
-  border-radius: 5px;
-  border: none;
-  transition: all 0.5s ease 0s;
-}
-
-.submit{
-  border-radius:5px;
-  padding:10px;
-  width:150px;
+.absenden{
   color: white;
-  background-color: lightgrey;  
-  border: none;
-  border-bottom: 5px solid lightgrey; 
-  margin-top: 130px; 
-
-
+  background: lightslategrey;
+  font-size: 10pt;
+  width: 55px;
+  padding: 5px 5px 5px 5px;
+  margin-left: 210px;
 }
 
 div {
@@ -118,6 +102,10 @@ text-align: left;
 width: 800px;
 text-align: center;
 
+}
+
+.uber{
+margin-left:50px;
 }
 
 main div p {
