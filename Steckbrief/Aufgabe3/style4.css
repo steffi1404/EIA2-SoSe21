@@ -107,16 +107,8 @@ font-weight: bolder;
 text-align: left;
 }
 
-div a{
+.sn{
 
-color: blue;
-text-decoration: none;
-font-size: large;
-}
-
-.a1{
-
-color: magenta;
-text-decoration: none;
+color: black;
 font-size: large;
 }
