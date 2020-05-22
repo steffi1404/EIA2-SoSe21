@@ -1,31 +1,57 @@
 
-.Karte {
-    position: absolute;
-    top: 20px;
+    .Karte {
+        position: absolute;
+        top: 20px;
+        ;
     }
     
-    .pinguin {
-        display: inline-block;
+    .Muschel1 {
+        background-image: url(https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png);
         position: relative;
-        top: 245px;
-        left: -99px;
+        height: 62px;
+        width: 70px;
+        left: -50px;
+        top: 200px;
+        
     }
-    
-    .shell {
-        display: inline-block;
+
+    .Muschel1:hover {
+
+        background-image: url(https://github.com/steffi1404/EIA1-SoSe20/blob/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel_perle1.png);
+    }
+
+
+    .Muschel2 {
+        background-image: url(https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png);
         position: relative;
-        left: -410px;
-        top: 295px;
+        height: 62px;
+        width: 70px;
+        left: 0px;
+        top: 200px;
+          
     }
-    
-    .text {
-        display: block;
+
+    .Muschel2:hover {
+
+        background-image: url(https://github.com/gabriel-rausch/EIA1-SoSe20/blob/master/L04/task_material/Station_2_Hover/images/muschel_perle.png);
+    }
+
+    .Muschel3 {
+        background-image: url(https://raw.githubusercontent.com/steffi1404/EIA1-SoSe20/master/Steckbrief/Bilder/Bilder%20Gru%C3%9Fkarten/muschel.png);
         position: relative;
-        color: whitesmoke;
-        left: 200px;
-        top: 125px;
+        height: 62px;
+        width: 70px;
+        left: 50px;
+        top: 200px;
+        
     }
+
+    .Muschel3:hover {
+
+        background-image: url(https://github.com/gabriel-rausch/EIA1-SoSe20/blob/master/L04/task_material/Station_2_Hover/images/muschel_perle.png);
+    } 
     
+
     .div1 {
         position: relative;
         justify-content: center;
@@ -46,5 +72,4 @@
         font-style: sans-serif;
         color: whitesmoke;
     }
-    
     
