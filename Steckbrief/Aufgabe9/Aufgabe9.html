@@ -3,24 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>To Do List</title>
-    <link rel="stylesheet" href="styleapp.css">
-    <script src="scriptapp.js"></script>
-    <script src="https://kit.fontawesome.com/4f6e0f2f94.js" crossorigin="anonymous"></script>
+    <title>To-Do-App</title>
+    <link rel="stylesheet" href="style9.css">
+    <script src="script9.js"></script>
+    <script src="https://kit.fontawesome.com/fb5fa76cce.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
-    <h1>Meine ToDo Liste</h1>
-    <h2 id="count">Meine Aufgaben</h2>
-    <center>
-    <ul id="LIST">
-    <li id="f1" value="1"><input type="checkbox">Einkaufen<i  class="fas fa-trash-alt delete"></i></li>
-    <li id="f2" value="1"><input type="checkbox">Gassi<i class="fas fa-trash-alt delete"></i></li>
-    <li id="f3" value="1"><input type="checkbox">Hausaufgaben<i class="fas fa-trash-alt delete"></i></li>
-    </ul>
-    <input id="myInput" type="text" placeholder="neue Aufgabe">
-    <button onclick="addElement()" class="addButton">ADD</button>
-    </center>
+    <div class="box">
+        <center><div id= "meinetodoliste">Meine ToDo Liste</div>
+        <br>
+        <br>
+        <div id="counter">Meine Aufgaben:</div></center>
+        <div class="header"></div>
+        <div class="content">
+        <ul id="list"></ul>
+        </div>
+
+    <div class="add-to-do">
+        <input type="text" id="input" placeholder="neue Aufgabe">
+    </div>
+    <br>
+    </div>
 </body>
 </html>

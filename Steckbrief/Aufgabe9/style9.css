@@ -1,0 +1,114 @@
+body {
+  background-image: url(https://www.publicdomainpictures.net/pictures/310000/velka/hintergrund-ornament-bunt-muster-15749386656Jr.jpg);
+  background-repeat: repeat;
+  font-family: Forte;
+  font-size: 30px;
+  color: black;
+}
+
+.box {
+  padding: 10px;
+  width: 380px;
+  margin: 0 auto;
+}
+
+.item {
+  width: 380px;
+  height: 45px;
+  min-height: 45px;
+  position: relative;
+  list-style: none;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+}
+
+.content {
+  width: 380px;
+  height: 350px;
+  max-height: 350px;
+  background-color: #e7e7e7;
+  overflow: auto;
+}
+
+.content::-webkit-scrollbar {
+  display: none;
+}
+
+.content ul {
+  padding: 0;
+  margin: 0;
+}
+
+.item i.co {
+  position: absolute;
+  font-size: 25px;
+  padding-left: 5px;
+  left: 15px;
+  top: 10px;
+}
+
+.fa-check-circle {
+  color: #2e8b57;
+}
+
+.fa-circle {
+  color: #fff;
+}
+
+.item p.text {
+  position: absolute;
+  padding: 5px;
+  margin: 5px;
+  font-size: 15px;
+  left: 50px;
+  top: 5px;
+  max-width: 285px;
+}
+
+
+.lineThrough {
+  text-decoration: line-through;
+  color: #000000;
+}
+
+.item i.de {
+  position: absolute;
+  font-size: 30px;
+  right: 15px;
+  top: 10px;
+}
+
+.add-to-do {
+  position: relative;
+  width: 360px;
+  height: 40px;
+  border: none;
+  background-color: #d6d6d6;
+  padding: 10px;
+  border-top: transparent;
+}
+
+.add-to-do input {
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  height: 40px;
+  width: 350px;
+  background-color: transparent;
+  color: black;
+  border: transparent;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.add-to-do input::-webkit-input-placeholder {
+  color: black;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 15px;
+}
+
+#meinetodoliste{
+  font-size: 45px;
+  font-weight: bold;
+}
